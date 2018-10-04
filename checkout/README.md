@@ -51,6 +51,6 @@ You can access the credentials from the merchant dashboard (API access > credent
 
 ## Support
 
-For further queries reach us at [techsupport@gocashfree.com](techsupport@gocashfree.com). 
+For further queries reach us at [techsupport@cashfree.com](techsupport@cashfree.com). 
 
 *****************************************************************************************
