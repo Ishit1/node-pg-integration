@@ -7,3 +7,5 @@ changelog:
     seamless basic
     seamless pro
     
+  To run server, cd to server directory and run node app.js
+    
